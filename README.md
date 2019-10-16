@@ -1,4 +1,4 @@
-# piaf-vue
+# coursier-express-africa
 
 ## Project setup
 ```
